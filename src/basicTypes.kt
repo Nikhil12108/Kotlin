@@ -31,7 +31,7 @@ fun main() {
     println(e) // hello
 
     // Variable declared without initialization
-    val d: Int
+    //val d: Int
 
 // Triggers an error
     println(d)
